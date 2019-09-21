@@ -7,3 +7,13 @@ Bundled with **Parcel**
 ```bash
 $ yarn install
 ```
+
+## Development mode 
+```bash
+$ yarn dev
+```
+
+## Porduction mode
+```bash
+$ yarn build
+```
