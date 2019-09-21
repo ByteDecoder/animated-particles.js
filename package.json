@@ -21,7 +21,6 @@
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "particle": "^0.1.4",
     "particles.js": "^2.0.0"
   }
 }
