@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "dev": "parcel ./src/*.html",
+    "build": "parcel build ./src/*.html"
+  },
+  "name": "animated-particles.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ByteDecoder/animated-particles.js.git",
+  "author": "Rodrigo Reyes <rreyes@canaryhealth.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "autoprefixer": "^9.6.1",
+    "eslint": "^6.4.0",
+    "parcel-bundler": "^1.12.3",
+    "postcss-modules": "^1.4.1",
+    "stylelint": "^11.0.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
